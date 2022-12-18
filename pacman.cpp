@@ -2,7 +2,7 @@
 using namespace std;
 
 main(){
-system("Color 01");
+
 
 
 cout << "                       @@@@@@@@@@@@@                 "      <<endl;
